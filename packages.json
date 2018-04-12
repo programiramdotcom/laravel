@@ -1,0 +1,11 @@
+{
+    "package": {
+        "name": "programiram/laravel",
+        "version": "1.0.0",
+        "source": {
+          "url": "https://github.com/programiramdotcom/laravel/tree/5.5",
+          "type": "git",
+          "reference": "master"
+        }
+    }
+}
